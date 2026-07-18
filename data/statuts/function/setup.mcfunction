@@ -1,3 +1,5 @@
+tellraw @a [{"text":"Datapack ","color":"yellow"},{"text":"LIBRA STATUTS","bold":true,"color":"yellow"},{"text":" fait par ","color":"yellow"},{"text":"Dada et Zeri","bold":true,"color":"yellow"}]
+
 scoreboard objectives add trig_statut trigger
 scoreboard objectives add trig_menu trigger
 
